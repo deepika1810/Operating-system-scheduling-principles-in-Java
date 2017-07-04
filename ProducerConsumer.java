@@ -84,7 +84,7 @@ class Consumer implements Runnable
                }
     } 
 }	 
-  public class ProConMain
+  public class ProducerConsumer
 {  
    public static void main(String args[])
   {           Scanner s=new Scanner(System.in);
